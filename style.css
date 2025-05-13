@@ -27,14 +27,14 @@ a:visited {
 } 
 
 li{
-    padding: 10px 70px;
+    padding: 0px 70px;
     list-style: none;
     font-size: 16px;
     background: linear-gradient(135deg, #acc9ff,#88c3da,#bedcf8 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: bold;
-    margin-bottom: 20px;
+   
 }
 
 .button-29 {
